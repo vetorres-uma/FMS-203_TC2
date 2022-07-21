@@ -1,0 +1,133 @@
+<!--
+Archivo de cambio dinamico de idioma para la estacion FMS-201
+
+copyright (c) 2020 victortorreslopez & Abdelmajid Goumbaz Aananou
+
+GNU General Public License
+
+historia de modificaciones
+0.1, 2020/10/27, AGA: revision
+0.0, 2020/10/26, vtl: creacion
+-->
+<dynamic-text>
+<header>
+  <default-language>SPA</default-language>
+  <default-font>
+      <language>SPA</language>
+      <font-name> Arial Narrow </font-name>
+      <font-color>0,0,0</font-color>
+      <font-height>12</font-height>
+      <font-weight>700</font-weight>
+      <font-italic>false</font-italic>
+      <font-underline>false</font-underline>
+      <font-strike-out>false</font-strike-out>
+      <font-char-set>0</font-char-set>
+  </default-font>
+</header>
+<text-list>    
+    
+<!-- ETIQUETAS -->
+    
+<!-- Modos de funcionamiento -->
+<text prefix="ModoCodigo" id="0">
+	<SPA>A1</SPA>
+</text>
+<text prefix="ModoCodigo" id="1">
+	<SPA>A2</SPA>
+</text>
+<text prefix="ModoCodigo" id="2">
+	<SPA>A3</SPA>
+</text>
+<text prefix="ModoCodigo" id="3">
+	<SPA>A4</SPA>
+</text>
+<text prefix="ModoCodigo" id="4">
+	<SPA>A5</SPA>
+</text>
+<text prefix="ModoCodigo" id="5">
+	<SPA>A6</SPA>
+</text>
+<text prefix="ModoCodigo" id="6">
+	<SPA>A7</SPA>
+</text>
+<text prefix="ModoCodigo" id="7">
+	<SPA>F1</SPA>
+</text>
+<text prefix="ModoCodigo" id="8">
+	<SPA>F2</SPA>
+</text>
+<text prefix="ModoCodigo" id="9">
+	<SPA>F3</SPA>
+</text>
+<text prefix="ModoCodigo" id="10">
+	<SPA>F4</SPA>
+</text>
+<text prefix="ModoCodigo" id="11">
+	<SPA>F5</SPA>
+</text>
+<text prefix="ModoCodigo" id="12">
+	<SPA>F6</SPA>
+</text>
+<text prefix="ModoCodigo" id="13">
+	<SPA>D1</SPA>
+</text>
+<text prefix="ModoCodigo" id="14">
+	<SPA>D2</SPA>
+</text>
+<text prefix="ModoCodigo" id="15">
+	<SPA>D3</SPA>
+</text>
+<text prefix="ModoDescripcion" id="0">
+	<SPA>Parada estado inicial</SPA>
+</text>
+<text prefix="ModoDescripcion" id="1">
+	<SPA>P. final ciclo</SPA>
+</text>
+<text prefix="ModoDescripcion" id="2">
+	<SPA>Parada pedida</SPA>
+</text>
+<text prefix="ModoDescripcion" id="3">
+	<SPA>Parada obtenida</SPA>
+</text>
+<text prefix="ModoDescripcion" id="4">
+	<SPA>Recuperación del defecto</SPA>
+</text>
+<text prefix="ModoDescripcion" id="5">
+	<SPA>Puesta estado inicial</SPA>
+</text>
+<text prefix="ModoDescripcion" id="6">
+	<SPA>Puesta estado determinado</SPA>
+</text>
+<text prefix="ModoDescripcion" id="7">
+	<SPA>Producción normal</SPA>
+</text>
+<text prefix="ModoDescripcion" id="8">
+	<SPA>Marchas de preparación</SPA>
+</text>
+<text prefix="ModoDescripcion" id="9">
+	<SPA>Marchas de cierre</SPA>
+</text>
+<text prefix="ModoDescripcion" id="10">
+	<SPA>M. verificación desorden</SPA>
+</text>
+<text prefix="ModoDescripcion" id="11">
+	<SPA>M. verificación orden</SPA>
+</text>
+<text prefix="ModoDescripcion" id="12">
+	<SPA>Marchas de prueba</SPA>
+</text>
+<text prefix="ModoDescripcion" id="13">
+	<SPA>Marcha/parada seguridad</SPA>
+</text>
+<text prefix="ModoDescripcion" id="14">
+	<SPA>Tratamiento defectos</SPA>
+</text>
+<text prefix="ModoDescripcion" id="15">
+	<SPA>Producción con defectos</SPA>
+</text>
+<text prefix="ModoDescripcion" id="16">
+	<SPA>Comprobando referencia</SPA>
+</text>
+
+</text-list>
+</dynamic-text>

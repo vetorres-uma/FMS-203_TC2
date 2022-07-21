@@ -1,0 +1,179 @@
+<!--
+Archivo de cambio dinamico de idioma para la estacion FMS-203
+
+copyright (c) 2020-2022 victortorreslopez
+GNU General Public License
+
+historia de modificaciones
+1.0, 2020/07/19, VTL: primera version
+0.0, 2020/10/26, VTL: creacion
+-->
+<dynamic-text>
+<header>
+  <default-language>SPA</default-language>
+  <default-font>
+      <language>SPA</language>
+      <font-name> Arial Narrow </font-name>
+      <font-color>0,0,0</font-color>
+      <font-height>12</font-height>
+      <font-weight>700</font-weight>
+      <font-italic>false</font-italic>
+      <font-underline>false</font-underline>
+      <font-strike-out>false</font-strike-out>
+      <font-char-set>0</font-char-set>
+  </default-font>
+</header>
+<text-list>    
+    
+<!-- ETIQUETAS -->
+    
+<!-- Modos de funcionamiento -->
+<text prefix="ModoCodigo" id="0">
+	<SPA>A1</SPA>
+</text>
+<text prefix="ModoCodigo" id="1">
+	<SPA>A2</SPA>
+</text>
+<text prefix="ModoCodigo" id="2">
+	<SPA>A3</SPA>
+</text>
+<text prefix="ModoCodigo" id="3">
+	<SPA>A4</SPA>
+</text>
+<text prefix="ModoCodigo" id="4">
+	<SPA>A5</SPA>
+</text>
+<text prefix="ModoCodigo" id="5">
+	<SPA>A6</SPA>
+</text>
+<text prefix="ModoCodigo" id="6">
+	<SPA>A7</SPA>
+</text>
+<text prefix="ModoCodigo" id="7">
+	<SPA>F1</SPA>
+</text>
+<text prefix="ModoCodigo" id="8">
+	<SPA>F2</SPA>
+</text>
+<text prefix="ModoCodigo" id="9">
+	<SPA>F3</SPA>
+</text>
+<text prefix="ModoCodigo" id="10">
+	<SPA>F4</SPA>
+</text>
+<text prefix="ModoCodigo" id="11">
+	<SPA>F5</SPA>
+</text>
+<text prefix="ModoCodigo" id="12">
+	<SPA>F6</SPA>
+</text>
+<text prefix="ModoCodigo" id="13">
+	<SPA>D1</SPA>
+</text>
+<text prefix="ModoCodigo" id="14">
+	<SPA>D2</SPA>
+</text>
+<text prefix="ModoCodigo" id="15">
+	<SPA>D3</SPA>
+</text>
+<text prefix="ModoDescripcion" id="0">
+	<SPA>Parada en el estado inicial</SPA>
+</text>
+<text prefix="ModoDescripcion" id="1">
+	<SPA>Parada solicitada a final de ciclo</SPA>
+</text>
+<text prefix="ModoDescripcion" id="2">
+	<SPA>Pausa solicitada</SPA>
+</text>
+<text prefix="ModoDescripcion" id="3">
+	<SPA>Parada obtenida</SPA>
+</text>
+<text prefix="ModoDescripcion" id="4">
+	<SPA>Recuperación del fallo</SPA>
+</text>
+<text prefix="ModoDescripcion" id="5">
+	<SPA>Puesta en el estado inicial</SPA>
+</text>
+<text prefix="ModoDescripcion" id="6">
+	<SPA>Puesta en un estado determinado</SPA>
+</text>
+<text prefix="ModoDescripcion" id="7">
+	<SPA>Producción normal</SPA>
+</text>
+<text prefix="ModoDescripcion" id="8">
+	<SPA>Marchas de preparación</SPA>
+</text>
+<text prefix="ModoDescripcion" id="9">
+	<SPA>Marchas de cierre</SPA>
+</text>
+<text prefix="ModoDescripcion" id="10">
+	<SPA>Marchas verificación en desorden</SPA>
+</text>
+<text prefix="ModoDescripcion" id="11">
+	<SPA>Marchas verificación orden</SPA>
+</text>
+<text prefix="ModoDescripcion" id="12">
+	<SPA>Marchas de prueba</SPA>
+</text>
+<text prefix="ModoDescripcion" id="13">
+	<SPA>Parada de emergencia</SPA>
+</text>
+<text prefix="ModoDescripcion" id="14">
+	<SPA>Tratamiento de los fallos</SPA>
+</text>
+<text prefix="ModoDescripcion" id="15">
+	<SPA>Producción con fallos</SPA>
+</text>
+
+<text prefix="FalloOrigenDescripcion" id="0">
+	<SPA>Estación</SPA>
+</text>
+<text prefix="FalloOrigenDescripcion" id="513">
+	<SPA>PickPlace:Rotativo</SPA>
+</text>
+<text prefix="FalloOrigenDescripcion" id="514">
+	<SPA>PicklPlace:Eyector</SPA>
+</text>
+<text prefix="FalloOrigenDescripcion" id="769">
+	<SPA>Prensa:Introductor</SPA>
+</text>
+<text prefix="FalloOrigenDescripcion" id="770">
+	<SPA>Prensa:Extractor</SPA>
+</text>
+<text prefix="FalloOrigenDescripcion" id="771">
+	<SPA>Prensa:Protector</SPA>
+</text>
+<text prefix="FalloOrigenDescripcion" id="772">
+	<SPA>Prensa:Prensa</SPA>
+</text>
+
+<text prefix="FalloNumeroDescripcion" id="0">
+	<SPA>Todo Correcto</SPA>
+</text>
+<text prefix="FalloNumeroDescripcion" id="1">
+	<SPA>Sistema Desconectado</SPA>
+</text>
+<text prefix="FalloNumeroDescripcion" id="2">
+	<SPA>Presión Baja</SPA>
+</text>
+<text prefix="FalloNumeroDescripcion" id="33619969">
+	<SPA>Tiempo de Respuesta Sobrepasado</SPA>
+</text>
+<text prefix="FalloNumeroDescripcion" id="33685505">
+	<SPA>Tiempo de Respuesta Sobrepasado</SPA>
+</text>
+<text prefix="FalloNumeroDescripcion" id="50397185">
+	<SPA>Tiempo Respuesta Sobrepasado</SPA>
+</text>
+<text prefix="FalloNumeroDescripcion" id="50462721">
+	<SPA>Tiempo de Respuesta Sobrepasado</SPA>
+</text>
+<text prefix="FalloNumeroDescripcion" id="50528257">
+	<SPA>Tiempo de Respuesta Sobrepasado</SPA>
+</text>
+<text prefix="FalloNumeroDescripcion" id="50593793">
+	<SPA>Tiempo de Respuesta Sobrepasado</SPA>
+</text>
+
+</text-list>
+</dynamic-text>

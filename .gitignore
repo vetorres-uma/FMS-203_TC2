@@ -1,0 +1,10 @@
+# gitignore template for TwinCAT 2
+
+# TwinCAT files
+*.BAK
+*.tsm.bak
+*.log
+*.SDB
+*.SYMc
+*.ci
+*.ri
